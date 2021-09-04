@@ -6,14 +6,14 @@ This thought of Idea was from my Problem I am facing it everyday while I am ridi
 ![WhatsApp Image 2021-09-04 at 11 51 39](https://user-images.githubusercontent.com/90082259/132085135-2843c8ce-b49b-4a09-88bf-09a3d726c28d.jpeg)
 
 
-## This will help you for making a sensor with the help of Following Componets:-
-1] Arduino Nano (or) Arduino Uno
-2] UV Sensor
-3] Buzzer
-4] Jumper Wires
-5] 9V Battery
-6] LED Bulb
-7] 330 OHM Resistor
+## This will help you for making a sensor with the help of Following List of Components:-
+1. Arduino Nano (or) Arduino Uno
+2. UV Sensor
+3. Buzzer
+4. Jumper Wires
+5. 9V Battery
+6. LED Bulb
+7. 330 OHM Resistor
 
 ### Code for PikaSor:-
 #define trig 12
@@ -84,8 +84,8 @@ else {
 }
 
 #### Note:-
-1] Remeber to not make loose connections otherwise your Arduino get's short-circuited and get's damaged. Also, using a optimum voltage battery which best fits to the both Arduino and the Sensor.
-2] Also, before connecting the components check the components as if they are rightly soldered or not and are not damaged.
+1. Remeber to not make loose connections otherwise your Arduino get's short-circuited and get's damaged. Also, using a optimum voltage battery which best fits to the both Arduino and the Sensor.
+2. Also, before connecting the components check the components as if they are rightly soldered or not and are not damaged.
 
 # My Experience in this Project:-
 I have made this project by facing a few obstacles which were very cruicial to occur to learn and make this Project successful. I have a intermediate knowledge in C-Language and the basic rules of it I have uploaded my C++ Code in my ARDUINO NANO by using ARDUINO IDE SOFTWARE. My Project *PIKASOR* needed more than 5 libraries where all of them are pre-included in this Software. Basically, I have faced a JAVA Exception error when the Sensor starts working. So I have made changes in my code and my downloaded libraries which made fit for the project to work.
