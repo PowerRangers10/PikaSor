@@ -19,6 +19,7 @@ This thought of Idea was from my Problem I am facing it everyday while I am ridi
 7. 330 OHM Resistor
 
 ### Code for PikaSor:-
+```
 #define trig 12
 #define echo 11
 void setup() {
@@ -85,7 +86,8 @@ else {
 // delay (50);
 }
 }
-
+```
+  
 #### Note:-
 1. Remeber to not make loose connections otherwise your Arduino get's short-circuited and get's damaged. Also, using a optimum voltage battery which best fits to the both Arduino and the Sensor.
 2. Also, before connecting the components check the components as if they are rightly soldered or not and are not damaged.
