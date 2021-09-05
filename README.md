@@ -1,4 +1,4 @@
-# PikaSor
+# PikaSor - Your Parking Companion
 A Two Wheeler Reverse Parking Sensor which helps the two wheeler owners park easily without any aches while turning back!! 
 This thought of Idea was from my Problem I am facing it everyday while I am riding my vehicle. 
 ![WhatsApp Image 2021-09-04 at 11 51 38](https://user-images.githubusercontent.com/90082259/132085114-c55f3d94-044f-4e33-a5fd-2dd410b4e6a9.jpeg)
