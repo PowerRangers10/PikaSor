@@ -1,10 +1,12 @@
+https://user-images.githubusercontent.com/90082259/132118398-2ea3cc83-20b3-4c44-abba-b5e0f04605eb.mp4
+
 # PikaSor - Your Parking Companion
 A Two Wheeler Reverse Parking Sensor which helps the two wheeler owners park easily without any aches while turning back!! 
 This thought of Idea was from my Problem I am facing it everyday while I am riding my vehicle. 
 ![WhatsApp Image 2021-09-04 at 11 51 38](https://user-images.githubusercontent.com/90082259/132085114-c55f3d94-044f-4e33-a5fd-2dd410b4e6a9.jpeg)
 ![WhatsApp Image 2021-09-04 at 11 51 38 (1)](https://user-images.githubusercontent.com/90082259/132085133-0b443eeb-db63-413c-9573-0d044f710f8a.jpeg)
 ![WhatsApp Image 2021-09-04 at 11 51 39](https://user-images.githubusercontent.com/90082259/132085135-2843c8ce-b49b-4a09-88bf-09a3d726c28d.jpeg)
-https://user-images.githubusercontent.com/90082259/132118318-bdf4e14b-bde3-469b-8d9a-18a75c8a3116.mp4
+
 
 ## This will help you for making a sensor with the help of Following List of Components:-
 
