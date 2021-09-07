@@ -1,4 +1,3 @@
-https://user-images.githubusercontent.com/90082259/132118398-2ea3cc83-20b3-4c44-abba-b5e0f04605eb.mp4
 
 # PikaSor - Your Parking Companion
 A Two-Wheeler Reverse Parking Sensor helps the two-wheeler owners park easily without any aches while turning back!! 
@@ -99,3 +98,6 @@ Coming to the Electronics Part, I was much excited about making the connections 
 
 # Credits:-
 I thank our Mentor:- Vijay Raghav Varada Sir, for making not only me but other engineering students out, thereby inspiring and making them make things innovative. Also, making us PAR the hurdles we faced in it.
+
+## A Short-clip of the PikaSor where you can understand how it works:-
+https://user-images.githubusercontent.com/90082259/132118398-2ea3cc83-20b3-4c44-abba-b5e0f04605eb.mp4
